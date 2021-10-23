@@ -8,6 +8,8 @@ Edit: I think sending out a survey of where people are trying to get to could be
 
 Edit 2: Valley Metro doesn't have any good contact info on website, so their policy on flyer dissemination is unclear. May need to to look at using local libraries,social services, or community centers to widen reach. Libraries are probably most feasible.
 
+Edit 3. The survey I created might be flawed, since I only ask where individuals go, but people might not be going to some places because public transport isnt available there. I need to somehow ask people where they would want(need) to go if public transport was available to go to that location. Need to work on how to phrase that.
+
 1. Use the Google Maps API (probably its distance matrix system) to create a simplified map of pheonix and mark current bus stops/routes
 2. Either use ABM or establish a reward based system to identify which destinations and areas on the map will have higher traffic/need and which areas will have less
 3. Use a genetic algorithm to find an optimal way to maximize reward, establishing reasonable costs for the time it takes for buses to travel, adding more buses, and adding bus stations
